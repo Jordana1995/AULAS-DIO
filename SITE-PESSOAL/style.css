@@ -12,6 +12,17 @@ body{
     color: rgb(0, 13, 129);
 } 
 
+.subtitle{
+    padding: 0px;
+    padding-left: 15px;
+    text-align: auto;
+}
+
+.post-title {
+    padding: 0px;
+    padding-left: 15px;
+}
+
 .post-title{
     font-size: 16px;
     margin-top: 0px;
